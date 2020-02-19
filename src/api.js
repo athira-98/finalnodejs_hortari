@@ -33,3 +33,4 @@ router.post('/',(req,res) => {
     }
      res.json({"status":"executed"});
 })
+module.exports= router;

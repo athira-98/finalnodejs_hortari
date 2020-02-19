@@ -2,7 +2,8 @@ const Properties= require('./models/Properties')
 const Product = require('./models/Product')
 const Category=require('./models/Category')
 const Manufacture = require('./models/Manufacturer')
-
+/*const user =require('./models/user')
+const cart=require('./models/cart')*/
 
 const db = require('./connector')
 
